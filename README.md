@@ -4,14 +4,10 @@
     <img src="https://travis-ci.org/CronixMicroSystems/react-js-boilerplate.svg?branch=master" alt="Build Status" />
 </a>
 
-<a href="https://gitter.im/CronixMicroSystems/Lobby">
-    <img src="https://badges.gitter.im/owner/repo.png" alt="Gitter Chat" />
-</a>
-
 ![alt text](./cronix.png)
 
 <div>
-  <sub>Created by <a href="https://github.com/Kokatsuna">Vladimir Ivanov</a> and maintained with ❤️ by an amazing <a href="https://github.com/CronixMicroSystems">Cronix team</a>.</sub>
+  <sub>Created by <a href="https://github.com/Kokatsuna">Vladimir Ivanov</a></sub>
 </div>
 
 # DEVELOPMENT
@@ -40,4 +36,4 @@
 
 # License
 
-This project is licensed under the MIT license, Copyright (c) 2017 Cronix Micro Systems. For more information see LICENSE.md.
+This project is licensed under the MIT license, Copyright (c) 2017 Ivanov Vladimir. For more information see LICENSE.md.
